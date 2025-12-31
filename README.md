@@ -28,6 +28,7 @@ The following is a 3x3 Random Matrix:
  22   14   10  
 
 The following are the sums of each row in the matrix:
+
 Row 1 Sum = 87  
 Row 2 Sum = 94  
 Row 3 Sum = 46  
